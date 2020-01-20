@@ -3,5 +3,5 @@ An open-source font based on Signature Plastics' Gorton Modified. Made for the k
 
 
 ![](render.png)
-![](specimen_1.png)
-![](specimen_2.png)
+![](Specimine_1.png)
+![](Specimine_2.png)
